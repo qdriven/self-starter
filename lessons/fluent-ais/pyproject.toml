@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "fluent-ais"
+version = "0.1.0"
+description = ""
+authors = ["patrick <anypatrick0@fluent.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+openai = "^1.10.0"
+portkey-ai = "^1.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
