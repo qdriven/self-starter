@@ -11,6 +11,11 @@ A Collection of Personal Projects for learning and tutorials, here is main purpo
 3. learn how to make products from a simple ideas
 4. learn how to articulate things well
 
+## Project Based AI Learning
+
+- [][ask pdf]() ask pdf 
+- [] [quick search]() search from 
+
 ## 1. QA-Revisited
 
 
