@@ -1,8 +1,9 @@
 # Self-Making Projects
 
 ## Social Media To Do 
-
-- [] Personal Blog
+- [] RSS Setup
+- [] Authorization/SSO login
+- [] Blogs
    - [] Halo
    - [] WordPress
    - [] Ghost

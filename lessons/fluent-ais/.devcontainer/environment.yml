@@ -1,8 +1,0 @@
-name: fluent-ai
-channels:  
- - defaults
-dependencies:  
-- python=3.11
-- poetry=1.2.0
-# - openai  
-# - python-dotenv
