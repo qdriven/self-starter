@@ -1,0 +1,11 @@
+version: "3.6"
+
+services:
+  kimi-free-api:
+    container_name: kimi-free-api
+    image: vinlic/kimi-free-api:latest
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - TZ=Asia/Shanghai

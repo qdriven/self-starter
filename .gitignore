@@ -1,0 +1,15 @@
+.idea/
+volumns/
+.vscode/
+.DS_Store
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+stacks/
+fluent/data
+fluent/
+collections/
+local-stack/*
+# Editor directories
+projects/
